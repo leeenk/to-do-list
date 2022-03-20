@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// renders the actual app, public folder
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
